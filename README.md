@@ -1,3 +1,7 @@
+## 🖼️ Architecture Diagram
+
+![Three-Tier High Availability Architecture](https://github.com/anandray/k8s-ha-infra-cdk-v2/blob/main/3-Tier-HA-System.png?raw=true)
+
 # Three-Tier Highly Available Architecture on AWS EKS
 
 This project implements a highly available three-tier architecture on AWS EKS using AWS CDK. The architecture is designed for production workloads with high availability, scalability, and security in mind.
